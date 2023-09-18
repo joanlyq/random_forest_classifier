@@ -1,6 +1,6 @@
 # Random Forest classifier usage example on Geotiff
 
-###prerequisitie
+### prerequisitie
 1. python
 2. numpy
 3. gdal
